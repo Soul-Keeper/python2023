@@ -1,0 +1,85 @@
+This is ObjectTeX, Version 3.1415926-1.0 (TeX engine: Aspose.TeX 22.11) (preloaded format=objectlatex 2022.12.13)  9 мар 2023 18:02
+entering extended mode
+**
+(
+LaTeX2e <2011/06/27>
+(article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+ (keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (graphicso.sty
+Package: graphics 2021/10/26 v1.0o Standard LaTeX Graphics (Aspose Pty Ltd.)
+ (trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(graphicso.cfg
+File: graphicso.cfg 2021/10/26 v1.0 graphics configuration of Object TeX (Aspos
+e Pty Ltd.)
+ 4)
+Package graphics Info: Driver file: objecttex.def on input line 82.
+ (objecttex.def
+File: objecttex.def 2021/07/30 v1.0 Graphics/color for Object TeX
+ (infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\Nick\Desktop\python2023\hw2\artifacts\easy.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+
+<img.png, id=1, 301.125pt x 301.125pt>
+File: img.png Graphic file (type png)
+ <use img.png>
+Package objecttex.def Info: img.png used on input line 13.
+(objecttex.def)             Requested size: 301.12425pt x 301.12425pt.
+ [1
+
+ <./img.png>]
+(C:\Users\Nick\Desktop\python2023\hw2\artifacts\easy.aux) ) 
+Here is how much of TeX's memory you used:
+  strings out of 
+  string characters out of 
+  words of memory out of 
+ 3830 multiletter control sequences out of 
+  words of font info for 15 fonts, out of  for 75
+ 14 hyphenation exceptions out of 307
+ 27i, 6n, 19p, b, 159s stack positions out of 5000i, 40n, 200p, b, 6000s
+
+Output written on object model (1 page).
