@@ -1,0 +1,2 @@
+aspose-pdf
+opencv-python
