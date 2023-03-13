@@ -1,19 +1,30 @@
 import ast
+import inspect
 import networkx as nx
 import matplotlib.pyplot as plt
 
-with open('easy.py') as fs:
-    source = fs.read()
-    tree = ast.parse(source)
+from easy import fib
 
-print(ast.dump(tree, indent=4))
 
-G = nx.DiGraph()
+def travel_ast(node, labels,  graph):
+    graph.add_node(node)
+    labels.update({node: node.__class__.__name__})
 
-for node in ast.walk(tree):
-    G.add_node(node)
+    for child in ast.iter_child_nodes(node):
+        # print(f'{node}:{child}')
+        graph.add_edge(node, child)
+        travel_ast(child, labels, graph)
 
-fig = plt.figure()
-ax = plt.gca()
-nx.draw(G, with_labels=True, ax=ax)
-plt.show()
+def create_ast_graph(func):
+    tree = ast.parse(inspect.getsource(func))
+    graph = nx.DiGraph()
+    label_map = {}
+
+    travel_ast(tree, label_map, graph)
+    return graph, label_map
+
+graph, label_map = create_ast_graph(fib)
+
+pos = nx.spring_layout(graph, k=1, seed=1)
+nx.draw(graph, labels=label_map, with_labels=True)
+plt.savefig("hw1/artifacts/1.png")
