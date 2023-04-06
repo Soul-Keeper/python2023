@@ -1,0 +1,67 @@
+Computing with 1 threads...
+Thread ID:18960, time:1680782312.6931458     
+Computition took 0.003989458084106445 seconds
+Result: 1.0007851925466296
+
+Computing with 2 threads...
+Thread ID:5064, time:1680782312.697649       
+Thread ID:5064, time:1680782312.6981733      
+Computition took 0.003945827484130859 seconds
+Result: 1.0007851925466305
+
+Computing with 3 threads...
+Thread ID:9788, time:1680782312.702132       
+Thread ID:9788, time:1680782312.702132       
+Thread ID:556, time:1680782312.7033
+Computition took 0.003766298294067383 seconds
+Result: 1.0000686463261101
+
+Computing with 4 threads...
+Thread ID:8344, time:1680782312.7067688      
+Thread ID:8344, time:1680782312.707711       
+Thread ID:8344, time:1680782312.7087197      
+Thread ID:21932, time:1680782312.7087197     
+Computition took 0.004992246627807617 seconds
+Result: 1.0007851925466302
+
+Computing with 5 threads...
+Thread ID:11724, time:1680782312.714707
+Thread ID:11724, time:1680782312.715709
+Thread ID:13576, time:1680782312.7167084
+Thread ID:11724, time:1680782312.7167084
+Thread ID:14168, time:1680782312.7177067
+Computition took 0.007995843887329102 seconds
+Result: 1.0007851925466305
+
+Computing with 6 threads...
+Thread ID:3728, time:1680782312.7257192
+Thread ID:3728, time:1680782312.7257192
+Thread ID:23528, time:1680782312.726712
+Thread ID:3728, time:1680782312.7277105
+Thread ID:23528, time:1680782312.72872
+Thread ID:8644, time:1680782312.72872
+Computition took 0.007872581481933594 seconds
+Result: 1.002513135143967
+
+Computing with 7 threads...
+Thread ID:7364, time:1680782312.7367241
+Thread ID:7364, time:1680782312.737718
+Thread ID:19736, time:1680782312.7387116
+Thread ID:7364, time:1680782312.7387116
+Thread ID:19736, time:1680782312.740708
+Thread ID:21892, time:1680782312.740708
+Thread ID:15712, time:1680782312.7397082
+Computition took 0.011131763458251953 seconds
+Result: 1.0016695388152872
+
+Computing with 8 threads...
+Thread ID:13388, time:1680782312.7507114
+Thread ID:13388, time:1680782312.7517135
+Thread ID:8820, time:1680782312.7517135
+Thread ID:13388, time:1680782312.7527075
+Thread ID:8820, time:1680782312.7537198
+Thread ID:21336, time:1680782312.754779
+Thread ID:7568, time:1680782312.7537198
+Thread ID:4456, time:1680782312.754779
+Computition took 0.011298894882202148 seconds
+Result: 1.0007851925466305

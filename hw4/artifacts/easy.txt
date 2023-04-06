@@ -1,0 +1,9 @@
+Time spent on computing using nothing: 23.891 seconds
+Result: [1346269, 2178309, 3524578, 5702887, 9227465, 14930352, 24157817, 39088169]
+
+Time spent on computing using threads: 23.042 seconds
+Result: [1346269, 2178309, 3524578, 5702887, 9227465, 14930352, 24157817, 39088169]
+
+Time spent on computing using processes: 10.902 seconds
+Result: [1346269, 2178309, 3524578, 5702887, 9227465, 14930352, 24157817, 39088169]
+
