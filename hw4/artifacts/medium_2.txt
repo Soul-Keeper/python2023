@@ -1,67 +1,67 @@
-Computing with 1 threads...
-Process ID:22768, time:1680782604.0311878
-Computition took 0.12684869766235352 seconds
+Computing with 1 processes...
+Process ID:9220, time:1680788834.8018994
+Computition took 0.13500404357910156 seconds
 Result: 1.0007851925466296
 
-Computing with 2 threads...
-Process ID:16260, time:1680782604.1648846
-Process ID:16260, time:1680782604.1658845  
-Computition took 0.1407325267791748 seconds
+Computing with 2 processes...
+Process ID:8776, time:1680788834.9359004
+Process ID:8776, time:1680788834.936911
+Computition took 0.14000344276428223 seconds
 Result: 1.0007851925466305
 
-Computing with 3 threads...
-Process ID:11000, time:1680782604.3158853
-Process ID:11000, time:1680782604.3168988
-Process ID:5760, time:1680782604.3168988 
-Computition took 0.15798306465148926 seconds
+Computing with 3 processes...
+Process ID:16052, time:1680788835.1118999
+Process ID:16052, time:1680788835.1128998
+Process ID:16052, time:1680788835.1128998
+Computition took 0.19498300552368164 seconds
 Result: 1.0000686463261101
 
-Computing with 4 threads...
-Process ID:24316, time:1680782604.4818866
-Process ID:18744, time:1680782604.4818866
-Process ID:24316, time:1680782604.4828854
-Process ID:18744, time:1680782604.4828854
-Computition took 0.18000006675720215 seconds
+Computing with 4 processes...
+Process ID:8684, time:1680788835.2858963
+Process ID:8684, time:1680788835.2858963
+Process ID:8684, time:1680788835.286899
+Process ID:8684, time:1680788835.286899
+Computition took 0.15999770164489746 seconds
 Result: 1.0007851925466302
 
-Computing with 5 threads...
-Process ID:15560, time:1680782604.6878853
-Process ID:15560, time:1680782604.688886
-Process ID:15560, time:1680782604.6898878
-Process ID:15560, time:1680782604.6898878
-Process ID:15560, time:1680782604.6908894
-Computition took 0.20700359344482422 seconds
+Computing with 5 processes...
+Process ID:4600, time:1680788835.4548995
+Process ID:4600, time:1680788835.4558966
+Process ID:4600, time:1680788835.4568982
+Process ID:4600, time:1680788835.4568982
+Process ID:4600, time:1680788835.4579012
+Computition took 0.18599796295166016 seconds
 Result: 1.0007851925466305
 
-Computing with 6 threads...
-Process ID:23748, time:1680782604.9008875
-Process ID:23748, time:1680782604.9018886
-Process ID:10976, time:1680782604.9018886
-Process ID:23748, time:1680782604.9018886
-Process ID:10976, time:1680782604.9028869
-Process ID:23748, time:1680782604.9028869
-Computition took 0.24399805068969727 seconds
+Computing with 6 processes...
+Process ID:14316, time:1680788835.658901
+Process ID:14316, time:1680788835.6598976
+Process ID:14316, time:1680788835.6598976
+Process ID:14316, time:1680788835.6608999
+Process ID:14316, time:1680788835.6608999
+Process ID:14316, time:1680788835.661901
+Computition took 0.2109994888305664 seconds
 Result: 1.002513135143967
 
-Computing with 7 threads...
-Process ID:15796, time:1680782605.1578898
-Process ID:15796, time:1680782605.1588883
-Process ID:15796, time:1680782605.1588883
-Process ID:20116, time:1680782605.1598868
-Process ID:20116, time:1680782605.1598868
-Process ID:15796, time:1680782605.1608868
-Process ID:20116, time:1680782605.1618884
-Computition took 0.25499868392944336 seconds
+Computing with 7 processes...
+Process ID:24364, time:1680788835.8888986
+Process ID:22096, time:1680788835.8888986
+Process ID:24364, time:1680788835.8899016
+Process ID:22096, time:1680788835.890901
+Process ID:24364, time:1680788835.890901
+Process ID:22096, time:1680788835.8929007
+Process ID:24364, time:1680788835.893899
+Computition took 0.2389998435974121 seconds
 Result: 1.0016695388152872
 
-Computing with 8 threads...
-Process ID:14484, time:1680782605.417887
-Process ID:14484, time:1680782605.4188874
-Process ID:14484, time:1680782605.4188874
-Process ID:14484, time:1680782605.4198878
-Process ID:14484, time:1680782605.4208875
-Process ID:14484, time:1680782605.4208875
-Process ID:14484, time:1680782605.421888
-Process ID:14484, time:1680782605.4238868
-Computition took 0.262998104095459 seconds
+Computing with 8 processes...
+Process ID:11184, time:1680788836.1458974
+Process ID:22552, time:1680788836.1489
+Process ID:11184, time:1680788836.1498997
+Process ID:11184, time:1680788836.1518998
+Process ID:11184, time:1680788836.1529012
+Process ID:11184, time:1680788836.153901
+Process ID:11184, time:1680788836.1549006
+Process ID:22552, time:1680788836.1508982
+Computition took 0.2669992446899414 seconds
 Result: 1.0007851925466305

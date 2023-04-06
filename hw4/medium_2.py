@@ -14,7 +14,7 @@ def compute(f, interval, step):
     return acc
 
 def my_integrate(f, a, b, *, n_jobs=1, n_iter=1000):
-    print(f'Computing with {n_jobs} threads...')
+    print(f'Computing with {n_jobs} processes...')
     step = (b - a) / n_iter
     job_size = (b - a) / n_jobs
     jobs = []
